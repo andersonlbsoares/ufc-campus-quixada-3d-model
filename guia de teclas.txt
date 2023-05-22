@@ -1,0 +1,11 @@
+1 -> Caramujao
+
++ -> Próximo objeto da lista
+- -> Objeto anterior da lista
+
+t -> Inicia o modo de edição
+l  -> Mudar posição da luz
+
+backspace   -> Apaga o ultimo objeto do vetor
+delete      -> Apaga o objeto selecionado 
+esc         -> salva o arquivo e fecha o programa
